@@ -8,7 +8,7 @@
 <div class="container py-5">
 
     <div class="d-flex justify-content-between align-items-center mb-4">
-        <h1 class="h3">📦 Daftar Barang</h1>
+        <h1 class="h3">Daftar Barang</h1>
         <a href="{{ route('barang.create') }}" class="btn btn-success">+ Tambah Barang</a>
     </div>
 
